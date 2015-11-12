@@ -1,0 +1,11 @@
+{
+  "name": "sprchallenge",
+  "version": "1.0.0",
+  "description": "keep track of menu items",
+  "main": "index.js",
+  "author": "Gesang Lamu <gesarlhamo80@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.2.21"
+  }
+}
